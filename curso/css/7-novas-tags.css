@@ -1,0 +1,31 @@
+header{
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav{
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+footer{
+    background: #ccc;
+    width: 100%;
+}
+
+article{
+    background: orange;
+    padding: 10px;
+}
+
+section{
+    border: 1px dotted #fff;
+}
+
+aside{
+    background: blue;
+}
